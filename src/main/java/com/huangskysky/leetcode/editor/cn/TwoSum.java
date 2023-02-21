@@ -46,12 +46,13 @@
 // Related Topics 数组 哈希表 👍 16352 👎 0
 
 
-package com.huangskysky.leetcode.editor.en;
-public class TwoSum{
+package com.huangskysky.leetcode.editor.cn;
+
+public class TwoSum {
   public static void main(String[] args) {
        Solution solution = new TwoSum().new Solution();
   }
-  //leetcode submit region begin(Prohibit modification and deletion)
+    //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int[] twoSum(int[] nums, int target) {
 
